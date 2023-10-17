@@ -9,7 +9,7 @@ When working on a large Git project, it’s not uncommon to come across code bug
 In this course, Git Debugging Techniques, you’ll learn about three Git commands with different techniques that you can use to track down and identify when a bug was introduced into your codebase. 
 - First, you’ll learn how to debug your code through file history using Git Blame.
 - Next, you’ll learn how to search through your codebase by binary search using Git Bisect.
-- Last, you’ll learn how to search for a string or regular expression using Git Grep. 
+- Last, you’ll learn how to search for a sadstring or regular expression using Git Grep. 
 
 At the end of this course, you’ll gain experience using several different Git debugging techniques that you can use to locate and fix bugs within your codebase.
 
